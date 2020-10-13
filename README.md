@@ -1,2 +1,2 @@
-# youandme
+# youandme.github.io
 first repository
